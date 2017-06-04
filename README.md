@@ -7,7 +7,7 @@ date: 2017-06-04
 # Playing paddle ball game using Deep Q-Learning algorithm
 This project demonstrates training a machine to play simple paddle ball game using Deep-Q Learning algorithm with Keras.
 
-This article is intended for beginers.
+This article is intended for beginners.
 
 ## Pre-requisites
 * Python (tested on 3.6)
