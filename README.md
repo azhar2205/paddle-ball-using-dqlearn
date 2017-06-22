@@ -26,4 +26,4 @@ Then test the model
 `python test-paddle-ball.py`
 
 ## Blog
-[Training a machine to play simple paddle ball game using Deep-Q Learning algorithm with Keras](https://azhar2205.github.io/blog/2017/06/04/paddle-ball-dqlearn)
+[Training a machine to play simple paddle ball game using Deep-Q Learning algorithm with Keras](https://azhar2205.github.io/paddle-ball-dqlearn/)
